@@ -1,6 +1,6 @@
 # Business Hours
 
-The Omnichannel Business Hour allows companies to define their operating hours, which is displayed on the [Livechat Widget](livechat-widget-installation.md), guiding customers to reach out only during those hours. This system helps manage agent workloads by alerting them of inquiries strictly within these hours, ensuring timely customer assistance.
+The Omnichannel Business Hours feature allows companies to define their operating hours, which is displayed on the [Livechat Widget](livechat-widget-installation.md), guiding customers to reach out only during those hours. This system helps manage agent workloads by alerting them of inquiries strictly within these hours, ensuring timely customer assistance.
 
 ## Business Hour Modes
 
@@ -26,7 +26,7 @@ To enable the business hour mode settings for your workspace,
 
 To create a new business hour,
 
-* Go to **Administration > Omnichannel > Business Hour**.
+* Go to **Administration > Omnichannel > Business Hours**.
 * Click +**New.**
 * Fill in the following details:
   * **Enabled**: Enables the working hour.
