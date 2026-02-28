@@ -18,7 +18,7 @@ To create a new Omnichannel department, follow these steps:
   * **Enabled**: Enable the new department.
   * **Name:** Name of the new department.
   * **Description:** An optional description of the department.
-  * **Show on the registration page:** Enable this to allow your visitors to choose the department they want to chat with. The department is displayed to the visitor in the [Livechat widget](livechat-widget-installation.md).
+  * **Show on the registration page:** Enable this to allow your visitors to choose the department they want to chat with. The department is displayed to the visitor in the [Livechat Widget](livechat-widget-installation.md).
   * **Email**: Set an email address to forward conversations to during offline hours.
   * **Show on offline page**: Enable this to display the department during offline hours.
   * **Send this department's Livechat offline messages to a channel:** Set the channel where offline messages should be directed.
