@@ -37,7 +37,7 @@ To create a new Omnichannel department, follow these steps:
 
 {% hint style="info" %}
 * Workspaces on the [community plan](../../readme/our-plans.md#community) from version `6.0` and above can only create one department. The **multiple department** feature is exclusively available to workspaces subscribed to any of Rocket.Chat's [premium plans](../../readme/our-plans.md).
-* Workspaces with multiple departments on versions less than 6.0 can continue using their departments but can't create a new one until they're subscribed to any of Rocket.chat's premium plans.
+* Workspaces with multiple departments on versions less than 6.0 can continue using their departments but can't create a new one until they're subscribed to any of Rocket.Chat's premium plans.
 {% endhint %}
 
 The Omnichannel chat behavior varies based on how many departments are created in the workspace:
