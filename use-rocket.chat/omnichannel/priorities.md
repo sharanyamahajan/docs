@@ -8,7 +8,7 @@ To configure **Priorities** in your workspace,
 
 * Go to **Administration > Workspace > Settings > Omnichannel >** [**Queue Management**](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/omnichannel-admins-guide#uuvo8ic5yio).
 * For the **Sorting Mechanism** field, select **Priorities.** Click **Save Changes**.
-* Go to **Administration > Omnichannel > Priorities**. It lists the default priorities: **Highest**, **High**, **Medium**, **Low,** and **Lowest**.
+* Go to **Administration > Omnichannel > Priorities**. It lists the default priorities: **Highest**, **High**, **Medium**, **Low**, and **Lowest**.
 * Select a priority to edit it and customize the name.
 * Click **Reset** to return the name of all the priorities back to default.
 
