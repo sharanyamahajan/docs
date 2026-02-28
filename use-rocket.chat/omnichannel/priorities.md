@@ -17,7 +17,7 @@ To configure **Priorities** in your workspace,
 To manually change the priority of a conversation,
 
 * Hover over the chat and click the **kebab** menu. Select the **priority** option you want to assign to that chat.
-* After the priority is updated, the chat is moved to reflect its priority position in the [queue](../omnichannel-agents-guides/omnichannel-queue.md). For example, a chat with the priority '**highest**" is transferred to the top of the chat queue.
+* After the priority is updated, the chat is moved to reflect its priority position in the [queue](../omnichannel-agents-guides/omnichannel-queue.md). For example, a chat with the priority '**highest**' is transferred to the top of the chat queue.
 * You can also change the priority of a chat from the **Edit room** tab of the chat by navigating to **Room Information > Edit**.
 
 {% hint style="info" %}
