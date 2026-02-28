@@ -17,7 +17,7 @@ Multiple business hour mode is exclusively available to workspaces subscribed to
 
 To enable the business hour mode settings for your workspace,
 
-* Navigate to **Administration** > **Workspace** > **Settings** > **Omnichannel > Business Hours.**
+* Navigate to **Administration > Workspace > Settings > Omnichannel > Business Hours**.
 * Toggle on **Business hours enabled.**
 * Set the **Business Hour Type** to **Single** or **Multiple,** specifying the business hour mode.
 * Click **Save Changes**.
